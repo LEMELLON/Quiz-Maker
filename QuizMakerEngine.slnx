@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="QuizMaker.Api/QuizMaker.Api.csproj" Id="91441221-ed55-4427-9c9d-ac8125f7ffb1" />
+  <Project Path="QuizMaker.Cli/QuizMaker.Cli.csproj" Id="41aa3329-0562-4417-aca6-f40aa8b48b9d" />
   <Project Path="QuizMakerEngine/QuizMakerEngine.csproj" />
 </Solution>

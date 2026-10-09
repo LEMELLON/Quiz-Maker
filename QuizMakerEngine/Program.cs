@@ -5,13 +5,13 @@ using QuizMakerEngine.Services;
 Console.WriteLine("=== Quiz Maker Engine (C# Core) ===");
 
 // 1. Inputs
-string apiKey = "AQ.Ab8RN6KJ5eEO8XQ5VdpwjLK44IXqULln4jjBe36xaPwDtM74AQ"; // Set your key here
-string documentPath = @"D:\PLV\BSIT 3-8\1st Sem\App Dev\quiz-sample.pdf"; // or .pptx
+string apiKey = "AQ.Ab8RN6LmhlqNOUGNv3O7qjSLB7qeUvVFWih_lJKSP8osXYEk1g"; // Set your key here
+string documentPath = @"C:\ProgramingProjects\SchoolStuff\3rd year Sem 1\CSS\Quiz-Maker\QuizSource\source.pptx"; // or .pptx
 string model = "gemini-3.1-flash-lite";
 
 if (!File.Exists(documentPath))
 {
-    Console.WriteLine("File not found. Please provide a valid PDF or PPTX path.");
+    Console.WriteLine("File not found. Please provide a valid PDF or PPTX path. We Wo");
     return;
 }
 
